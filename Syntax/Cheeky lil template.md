@@ -1,4 +1,5 @@
-# THERE ARE PLENTY OF OTHER GUIDES ONLINE THIS IS JUST WHAT I DID AND ITS A BIT SCUFFED\
+# tbh dont even use this it's just that bad
+Hi\
 Depending on which C++ version you have it'll differ.\
 Mostly you'll use this one\
 <br>
