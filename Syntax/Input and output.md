@@ -1,3 +1,4 @@
+# HOW TO INPUT AND OUTPUT IN C++
 Alright I put this syntax topic first because it's pretty much the first thing you need to do during problems.\
 <br>
 There are two different ways to both take values and print them out. (I don't really know how to do the second method so I'm not really qualified to teach that)
