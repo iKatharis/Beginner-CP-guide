@@ -10,7 +10,7 @@ First time actually doing something relatively serious on here so excuse my info
 By the way, the guide won't cover the absolute basics such as setting up C++ or niche, rarely used syntax.
 
 C++ Syntax (For those who don't know)
-1. [Input and output](Syntax/Input and output)
+1. [Input and output](Syntax/Input%20and%20output)
 2. Variables
 3. Loops
 4. Tricks?
